@@ -1,6 +1,6 @@
 # LTTS-mini-project
 # Stepin_Airline-Reservation
-![Banner](https://github.com/Annapoornarb/Stepin_Airline-Reservation/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/Swapnil-SP/M1_Airline-Reservation/blob/main/1_Requirements/banner.png)
 
 [![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
 
