@@ -33,7 +33,7 @@ Airline Reservation systems has a set of benefits. Here are few of them:
 
 ## Swot Analysis
 
-![Description](https://github.com/Annapoornarb/Stepin_Airline-Reservation/blob/main/1_Requirements/swot_analysis.png)
+![Description](https://github.com/Swapnil-SP/M1_Airline-Reservation/blob/main/1_Requirements/swot_analysis.png)
 
 # 4W&#39;s and 1&#39;H
 
