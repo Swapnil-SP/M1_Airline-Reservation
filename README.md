@@ -34,9 +34,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`99006048` | Annapurna Bisanalli  | Able to add new passenger to the airline and display the same. Able to allot seats and passenger id to the passenger. Able to calculate the total price details. | X No     | X No   |X No   |Yes     
+ |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+|----------------|----------------|---------------|-------------|--------------
+` | Able to add new passenger to the airline and display the same. Able to allot seats and passenger id to the passenger. Able to calculate the total price details. | X No     | X No   |X No   |Yes     
    
 
 ## Challenges Faced and How Was It Overcome
