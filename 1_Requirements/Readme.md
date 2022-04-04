@@ -22,7 +22,7 @@ Airline Reservation systems has a set of benefits. Here are few of them:
 * Update personal information(name,age).
 * Stores the entire customer database.
 
-![Description](https://github.com/Annapoornarb/Stepin_Airline-Reservation/blob/main/1_Requirements/design.png)
+![Description](https://github.com/Swapnil-SP/M1_Airline-Reservation/blob/main/1_Requirements/design.png)
 
 ### Explaination
 * Airline Reservation  Application have few inbuilt features like:
