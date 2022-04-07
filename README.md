@@ -1,4 +1,4 @@
-# LTTS-mini-project
+# Project
 # Stepin_Airline-Reservation
 ![Banner](https://github.com/Swapnil-SP/M1_Airline-Reservation/blob/main/1_Requirements/banner.png)
 
